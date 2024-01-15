@@ -1,4 +1,5 @@
 Push Code
-git remote add origin https://github.com/Jimmy0912/East-Invoicing.git
-git branch -M main
-git push -u origin main
+
+git add .
+git commit -m ""
+git push -u origin master
