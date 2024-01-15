@@ -1,0 +1,16 @@
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\bin\Debug\简单进销存对账.exe.config
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\bin\Debug\简单进销存对账.exe
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\bin\Debug\简单进销存对账.pdb
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.csproj.AssemblyReference.cache
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.csproj.SuggestedBindingRedirects.cache
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.Properties.Resources.resources
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.csproj.GenerateResource.cache
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.csproj.CoreCompileInputs.cache
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.exe
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.pdb
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.MDIMainFrame.resources
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.ProductList.resources
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.SupplierList.resources
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\bin\Debug\System.Data.Common.dll
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\bin\Debug\System.Data.SqlClient.dll
+D:\OwnerProject\简单进销存\Code\简单进销存对账\简单进销存对账\obj\Debug\简单进销存对账.csproj.CopyComplete

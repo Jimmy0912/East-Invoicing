@@ -16,7 +16,7 @@ namespace 简单进销存对账
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MDIMainFrame());
         }
     }
 }
